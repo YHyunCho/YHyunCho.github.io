@@ -10,7 +10,7 @@ language: 'en-uk'
 name: 'Finding The Way Home'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
-short_url: 'yhyuncho.github.io'
+short_url: 'yhyuncho.github.io/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -46,7 +46,7 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: yhyuncho
-repo: "http://github.com/yhyuncho/yhyuncho.github.io"
+repo: "http://github.com/yhyuncho/yhyuncho.github.io/"
 branch: master
 # relative_source: ../jasper/
 # destination: ../jasper-pages/
