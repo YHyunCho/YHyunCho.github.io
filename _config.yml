@@ -46,7 +46,7 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: yhyuncho
-repo: jasper
+repo: "http://github.com/yhyuncho/yhyuncho.github.io"
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
