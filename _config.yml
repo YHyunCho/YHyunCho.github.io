@@ -50,8 +50,8 @@ repo: "http://github.com/yhyuncho/yhyuncho.github.io"
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://jekyllt.github.io/jasper/
-source_url:  https://github.com/jekyllt/jasper/
+production_url:  https://yhyuncho.github.io/
+source_url:  https://github.com/yhyuncho/yhyuncho.github.io/
 
 exclude:
   - README.md
