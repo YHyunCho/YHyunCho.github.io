@@ -14,7 +14,7 @@ short_url: 'yhyuncho.github.io/jasper'
 google_analytics: UA-69281367-1
 disqus: YHyunCho
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /YHyunCho.github.io/
+baseurl: /jasper/
 
 # Permalinks
 permalink: /:title
