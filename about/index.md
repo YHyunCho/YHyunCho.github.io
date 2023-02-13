@@ -2,7 +2,7 @@
 layout: page
 title: About
 navigation: true
-logo: '/yhyuncho.github.io/assets/images/ghost.png'
+logo: 'assets/images/ghost.png'
 current: about
 ---
 
